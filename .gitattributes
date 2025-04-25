@@ -1,2 +1,0 @@
-fake_news.csv filter=lfs diff=lfs merge=lfs -text
-glove.6B.50d.txt filter=lfs diff=lfs merge=lfs -text
